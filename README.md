@@ -43,6 +43,6 @@ It is impossible to export CSV files from the Oracle server, so we exported a pd
 
 # **4. Data modeling and database design** 
 
-## **ER Diagram**
+## **E/R Diagram**
 ![ERD](images/MVST-ER.png)  
 
