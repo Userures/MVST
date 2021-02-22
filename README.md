@@ -10,5 +10,4 @@
 ## **Type of the user-interface:**  
    We have chosen the web user-interface as it is the easiest way to connect this interface with the Oracle database server.
 ## **Programming language and database server:**  
-   We will link the selected database server (Oracle) using the PHP programming language. The choice was PHP because in this language it is also easy to connect our Web 
-   ## **interface and the database server.**  
+   We will link the selected database server (Oracle) using the PHP programming language. The choice was PHP because in this language it is also easy to connect our Web interface and the database server.  
