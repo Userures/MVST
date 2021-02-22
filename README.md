@@ -16,7 +16,7 @@
 # **3. Project Use-Case diagram and questions over the data**  
  
 ## **General questions:**  
-  1. What is the title of the movie ?
+  1. What movie did Scarlett Johansson star in ?
   2. How long is the movie ?  
   3. What year was the movie released ? 
   4. What is the genre of that movie ?  
