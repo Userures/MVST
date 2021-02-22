@@ -19,13 +19,13 @@
   1. What movie did Scarlett Johansson star in ?
   2. How many movies are longer than 130 minutes ?  
   3. Which movie is the longest ? 
-  4. What is the genre of that movie ?  
-  5. In which country was the movie shot ? 
-  6. Who plays the main role in the movie ?  
-  7. What gender is the main actor ?  
-  8. What is the description of the movie ?
-  9. What are the updates of movies on the site ?
-  10. What keys are in the tables (Primary and Foreign)?
+  4. What is the oldest movie in your database ?  
+  5. How many movies have titles beginning with the letter "A" in your database ? 
+  6. Which country has produced the most movies ?  
+  7. What movies has the woman starred in in your database ?    
+  8. Which genre is the most in your database ?
+  9. How many movies each country has produced ?
+  10. How many movies of each genre ?
   11. How tables are related to each other?
   12. Is it possible to get a profit from the project ?
   13. What is the potential of the project ?
