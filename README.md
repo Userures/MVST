@@ -19,12 +19,12 @@
  
 ## **General questions:**  
   1. What is the title of the movie ?
-  2. Asdfg?  
-  3. Asdfg? 
-  4. Asdfg?  
-  5. Asdfg? 
-  6. Asdfg?  
-  7. Asdfg?  
+  2. How long is the movie ?  
+  3. What year was the movie released ? 
+  4. What is the genre of that movie ?  
+  5. In which country was the movie shot ? 
+  6. Who plays the main role in the movie ?  
+  7. What gender is the main actor ?  
   8. Asdfg?
   9. Asdfg?
   10. Asdfg?
