@@ -21,10 +21,10 @@
   3. Which movie is the longest ? 
   4. What is the oldest movie in your database ?  
   5. How many movies have titles beginning with the letter "A" in your database ? 
-  6. Which country has produced the most movies ?  
+  6. How many movies each country has produced ?  
   7. What movies has the woman starred in in your database ?    
   8. Which genre is the most in your database ?
-  9. How many movies each country has produced ?
+  9.  ?
   10. How many movies of each genre ?
   11. which movie has the longest title ?
   12. How many movies were produced each year ?
