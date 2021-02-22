@@ -1,0 +1,5 @@
+{"results":[{"columns":[{"name":"GENDER_ID","type":"NUMBER"},{"name":"GENDER","type":"VARCHAR2"}],"items":
+[
+{"gender_id":1,"gender":"man"}
+,{"gender_id":2,"gender":"woman"}
+]}

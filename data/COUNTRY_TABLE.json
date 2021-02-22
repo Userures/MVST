@@ -1,0 +1,8 @@
+{"results":[{"columns":[{"name":"COUNTRY_ID","type":"NUMBER"},{"name":"COUNTRY_NAME","type":"VARCHAR2"}],"items":
+[
+{"country_id":1,"country_name":"France"}
+,{"country_id":2,"country_name":"USA"}
+,{"country_id":3,"country_name":"Australia"}
+,{"country_id":4,"country_name":"UK"}
+,{"country_id":5,"country_name":"India"}
+]}
