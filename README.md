@@ -50,3 +50,5 @@ It is impossible to export CSV files from the Oracle server, so we exported a pd
 
 ## **DDL queries:**  
 
+DDL queries stored in the **"data/DDL"** folder.  
+
