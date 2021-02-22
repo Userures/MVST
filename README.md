@@ -1,7 +1,7 @@
   
   # MVST  
   
-  **Team name:***  **MVST** – ***M***o***V***ie***S***i***T***e  
+  **Team name:**  **MVST** – ***M***o***V***ie***S***i***T***e  
    
 # **Project description** 
 
