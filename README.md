@@ -23,9 +23,9 @@
   5. How many movies have titles beginning with the letter "A" in your database ? 
   6. How many movies each country has produced ?  
   7. What movies has the woman starred in in your database ?    
-  8. Which genre is the most in your database ?
+  8. How many movies of each genre ?
   9.  ?
-  10. How many movies of each genre ?
+  10.  ?
   11. which movie has the longest title ?
   12. How many movies were produced each year ?
   13. What is the full information about all movies (link all tables) ?
