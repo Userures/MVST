@@ -1,8 +1,6 @@
-  
-  # MVST  
-  
-  **Team name:**  **MVST** – ***M***o***V***ie***S***i***T***e  
-  **Web Site:**  **FlixGO**
+# 1. Team MVST  
+**Team name:**  **MVST** – ***M***o***V***ie***S***i***T***e  
+**Web Site:**  **FlixGO**
    
 # **2. Project description** 
 
