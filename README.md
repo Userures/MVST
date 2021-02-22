@@ -1,7 +1,6 @@
-<span style="color:orange;">
-<p align="center"; >MVST</p>
-</span>
-   **MVST** – ***M***o***V***ie***S***i***T***e  
+<p align="center";>***MVST***</p>
+
+**MVST** – ***M***o***V***ie***S***i***T***e  
 
    
 # **Project description** 
