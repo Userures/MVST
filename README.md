@@ -17,8 +17,8 @@
  
 ## **General questions:**  
   1. What movie did Scarlett Johansson star in ?
-  2. How long is the movie ?  
-  3. What year was the movie released ? 
+  2. How many movies are longer than 130 minutes ?  
+  3. Which movie is the longest ? 
   4. What is the genre of that movie ?  
   5. In which country was the movie shot ? 
   6. Who plays the main role in the movie ?  
