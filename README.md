@@ -36,5 +36,6 @@
 
 ## **Dataset for the project**  
   
+The idea in our project is that the admins add films that they like. For this reason, we did not import data, but created our own.
 
 
