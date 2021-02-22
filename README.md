@@ -16,4 +16,23 @@
    We will link the selected database server (**Oracle**) using the **PHP** programming language. The choice was **PHP** because in this language it is also easy to connect our Web interface and the database server.  
 
 # **Project Use-Case diagram and questions over the data**  
+ 
+## **General questions:**  
+  1. Asdfg?
+  2. Asdfg?  
+  3. Asdfg? 
+  4. Asdfg?  
+  5. Asdfg? 
+  6. Asdfg?  
+  7. Asdfg?  
+  8. Asdfg?
+  9. Asdfg?
+  10. Asdfg?
+  11. Asdfg?
+  12. Asdfg?
+  13. Asdfg?
+  14. Asdfg?
+  15. Asdfg?    
+  
+
 
