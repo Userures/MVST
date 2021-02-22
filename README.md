@@ -37,6 +37,6 @@
 ## **Dataset for the project**  
   
 The idea in our project is that the admins add movies that they like. For this reason, we did not import data, but created our own.
-It is impossible to export CSV files from the Oracle server, so we exported a pdf file, it is stored in the **"data"** folder.  
+It is impossible to export CSV files from the Oracle server, so we exported a pdf file and json file, it is stored in the **"data"** folder.  
 
 
