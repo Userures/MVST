@@ -43,7 +43,7 @@ It is impossible to export CSV files from the Oracle server, so we exported a pd
 <img src="images/MVST-UseCase-UML.png" alt="UML" width="700" align="center"/>
 </p>
 
-# **4. Data modeling and database design** 
+# **4. Data modeling and database design**  
 
 ## **E/R Diagram:**
 ![ERD](images/MVST-ER.png)  
@@ -56,4 +56,6 @@ DDL queries stored in the **"data/DDL"** folder.
 
 DML queries stored in the **"data/DML"** folder.  
 
+# **5. SQL queries**  
 
+SQL queries stored in the **"data/SQL"** folder. 
