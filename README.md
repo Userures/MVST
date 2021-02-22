@@ -25,14 +25,14 @@
   5. In which country was the movie shot ? 
   6. Who plays the main role in the movie ?  
   7. What gender is the main actor ?  
-  8. Asdfg?
-  9. Asdfg?
-  10. Asdfg?
-  11. Asdfg?
-  12. Asdfg?
-  13. Asdfg?
-  14. Asdfg?
-  15. Asdfg?    
+  8. What is the description of the movie ?
+  9. What are the updates of movies on the site ?
+  10. What keys are in the tables (Primary and Foreign)?
+  11. How tables are related to each other?
+  12. Is it possible to get a profit from the project ?
+  13. What is the potential of the project ?
+  14. In which areas the project is applied ?
+  15. How the project helps people ?    
   
 
 
