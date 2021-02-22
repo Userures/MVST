@@ -48,3 +48,5 @@ It is impossible to export CSV files from the Oracle server, so we exported a pd
 ## **E/R Diagram:**
 ![ERD](images/MVST-ER.png)  
 
+## **DDL queries:**  
+
