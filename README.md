@@ -26,7 +26,7 @@
   8. How many movies of each genre ?
   9. Which genre is the most in your database ?  
   10. Which country has produced the most movies ?  
-  11. which movie has the longest title ?
+  11. Which movie has the longest title ?
   12. How many movies were produced each year ?
   13. What is the full information about all movies (link all tables) ?
   14. How many movies have been produced since 2014 ?
