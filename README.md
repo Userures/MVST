@@ -32,17 +32,17 @@
   14. In which areas the project is applied ?
   15. How the project helps people ?   
 
-## **Dataset for the project**  
+## **Dataset for the project:**  
   
 The idea in our project is that the admins add movies that they like. For this reason, we did not import data, but created our own.
 It is impossible to export CSV files from the Oracle server, so we exported a pdf file and json file, it is stored in the **"data"** folder.  
 
-## **Use-case UML diagram**  
+## **Use-case UML diagram:**  
 
 ![UML](images/MVST-UseCase-UML.png)  
 
 # **4. Data modeling and database design** 
 
-## **E/R Diagram**
+## **E/R Diagram:**
 ![ERD](images/MVST-ER.png)  
 
