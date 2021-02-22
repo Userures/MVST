@@ -1,7 +1,6 @@
-   # MVST  
-
-   **MVST** – ***M***o***V***ie***S***i***T***e  
-
+  
+  # MVST  
+  **MVST** – ***M***o***V***ie***S***i***T***e  
    
 # **Project description** 
 
