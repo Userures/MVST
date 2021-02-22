@@ -26,11 +26,11 @@
   8. Which genre is the most in your database ?
   9. How many movies each country has produced ?
   10. How many movies of each genre ?
-  11. How tables are related to each other?
-  12. Is it possible to get a profit from the project ?
-  13. What is the potential of the project ?
-  14. In which areas the project is applied ?
-  15. How the project helps people ?   
+  11. which movie has the longest title ?
+  12. How many films were produced each year ?
+  13. What is the full information about all movies (link all tables) ?
+  14. How many movies have been produced since 2014 ?
+  15. What movies were produced in the USA after 2015 ?   
 
 ## **Dataset for the project:**  
   
