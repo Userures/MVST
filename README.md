@@ -1,6 +1,6 @@
 # MVST
 
-MVST – MoVieSiTe
+MVST – *M*o*V*ie*S*i*T*e
 Project description
 
 Purpose and benefits in the real world:
