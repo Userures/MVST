@@ -1,7 +1,8 @@
 # MVST
 
-**MVST** – ***M***o***V***ie***S***i***T***e  
-## **Project description** 
+   **MVST** – ***M***o***V***ie***S***i***T***e  
+   
+# **Project description** 
 
 ## **Purpose and benefits in the real world:**  
    Our project is to create a website where people can find movies to their liking during their holidays and have a good time. The problem is that nowadays there are a lot of movies being shot and it becomes difficult for us to find something worthy among all this. We offer movies that are in our personal tops.
