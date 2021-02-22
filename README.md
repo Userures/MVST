@@ -41,4 +41,8 @@ It is impossible to export CSV files from the Oracle server, so we exported a pd
 
 ![UML](images/MVST-UseCase-UML.png)  
 
-# **4. Data modeling and database design**  
+# **4. Data modeling and database design** 
+
+## **ER Diagram**
+![ERD](images/MVST-ER.png)  
+
