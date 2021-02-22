@@ -39,6 +39,8 @@ It is impossible to export CSV files from the Oracle server, so we exported a pd
 
 ## **Use-case UML diagram:**  
 
+<img src="images/MVST-UseCase-UML.png" alt="UML" width="200"/>
+
 ![UML](images/MVST-UseCase-UML.png)  
 
 # **4. Data modeling and database design** 
